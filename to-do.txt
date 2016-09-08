@@ -1,0 +1,4 @@
+1. set up git repository for this class
+2. get IPythonNotebook
+3. do homework for linear regression and gradient descent
+	-closed form and gradient descent
